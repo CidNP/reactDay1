@@ -9,6 +9,7 @@ const App = ()=> {
         <Button name="Ipo Result" link="https://iporesult.cdsc.com.np/"/>
         <br></br>
         <Button name="Youtube" link="https://youtube.com"/>
+        <Button name="Youtube" link="https://youtube.com"/>
         <Button name="DoMIC" link="https://mic.ku.edu.np"/>
         <Button name="StackOverflow" link="https://stackoverflow.com"/>
     </div>
